@@ -4,7 +4,7 @@ x-stoplight:
 info:
   title: tfgyhuj
   version: '1.0'
-  description: jkhu
+  description: ddjkhu
 servers:
   - url: 'http://localhost:3000'
 paths:
